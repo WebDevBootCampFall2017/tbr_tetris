@@ -16,7 +16,7 @@ namespace Tetris
 {
     static class Program
     {
-         {
+         
         public static string sqr = "■";
         public static int[,] grid = new int[23, 10];
         public static int[,] droppedtetrominoeLocationGrid = new int[23, 10];
@@ -86,7 +86,7 @@ namespace Tetris
                 Main();
 
             }
-         else return
+            return;
 }
 
 
