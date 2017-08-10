@@ -1,0 +1,6 @@
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\input\input\obj\Debug\input.csprojResolveAssemblyReference.cache
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\input\input\bin\Debug\input.exe.config
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\input\input\bin\Debug\input.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\input\input\bin\Debug\input.pdb
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\input\input\obj\Debug\input.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\input\input\obj\Debug\input.pdb

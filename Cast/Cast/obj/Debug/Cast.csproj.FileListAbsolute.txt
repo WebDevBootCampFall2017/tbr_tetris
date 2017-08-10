@@ -1,0 +1,6 @@
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Cast\Cast\bin\Debug\Cast.exe.config
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Cast\Cast\bin\Debug\Cast.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Cast\Cast\bin\Debug\Cast.pdb
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Cast\Cast\obj\Debug\Cast.csprojResolveAssemblyReference.cache
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Cast\Cast\obj\Debug\Cast.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Cast\Cast\obj\Debug\Cast.pdb

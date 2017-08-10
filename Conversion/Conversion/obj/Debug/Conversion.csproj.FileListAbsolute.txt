@@ -1,0 +1,6 @@
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Conversion\Conversion\bin\Debug\Conversion.exe.config
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Conversion\Conversion\bin\Debug\Conversion.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Conversion\Conversion\bin\Debug\Conversion.pdb
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Conversion\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Conversion\Conversion\obj\Debug\Conversion.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Conversion\Conversion\obj\Debug\Conversion.pdb

@@ -1,0 +1,6 @@
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Variables\Variables\bin\Debug\Variables.exe.config
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Variables\Variables\bin\Debug\Variables.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Variables\Variables\bin\Debug\Variables.pdb
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Variables\Variables\obj\Debug\Variables.exe
+c:\users\tyrone robertx\documents\visual studio 2017\Projects\Variables\Variables\obj\Debug\Variables.pdb
