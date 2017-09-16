@@ -16,7 +16,7 @@ namespace Tetris
 {
     static class Program
     {
-         
+         //Designing the Grid for blocks to drop
         public static string sqr = "■";
         public static int[,] grid = new int[23, 10];
         public static int[,] droppedtetrominoeLocationGrid = new int[23, 10];
@@ -32,20 +32,16 @@ namespace Tetris
         public static int linesCleared = 0, score = 0, level = 1;
 
         
-        static void Main()
+        static void Main()// adding sound player
         {
             SoundPlayer sp = new SoundPlayer();
-            sp.SoundLocation = Environment.CurrentDirectory + "\\01_-_Tetris_Tengen_-_NES_-_Introduction.wav";
-            sp.PlayLooping();
+           
 
             drawBorder();
             Console.SetCursorPosition(4, 5);
             Console.WriteLine("Press any key");
             Console.ReadKey(true);
-            sp.Stop();
-            sp.SoundLocation = Environment.CurrentDirectory + "\\music.wav";
-            sp.PlayLooping();
-            timer.Start();
+                       timer.Start();
             dropTimer.Start();
             long time = timer.ElapsedMilliseconds;
             Console.SetCursorPosition(25, 0);
@@ -61,9 +57,7 @@ namespace Tetris
 
             Update();
 
-            sp.Stop();
-            sp.SoundLocation = Environment.CurrentDirectory + "\\08_-_Tetris_Tengen_-_NES_-_Game_Over.wav";
-            sp.Play();
+            
             Console.SetCursorPosition(0, 0);
             Console.WriteLine("Game Over \n Replay? (Y/N)");
             string input = Console.ReadLine();
